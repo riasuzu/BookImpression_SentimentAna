@@ -6,8 +6,8 @@ from tqdm import tqdm
 
 # NLUの資格情報
 nlu_credentials = {
-    "apikey": "fRFNSVJsMV8DBJ43ewqXFbqWcPG_Aby6vd-KUgapLX5H",
-    "url": "https://api.jp-tok.natural-language-understanding.watson.cloud.ibm.com/instances/80615145-3719-4826-aea3-a604d7e42cef"
+    "apikey": "write_your_apikey",
+    "url": "write_your_url"
 }
 
 
