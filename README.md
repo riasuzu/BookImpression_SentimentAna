@@ -11,6 +11,7 @@ IBM CloudのWatson APIを使い、読書メーターに投稿されている本�
 * requests==2.25.1
 * selenium==3.141.0
 * selenium-tools==0.0.2
+* tqdm==4.61.1
 * ibm-watson==5.2.2
 
 # Note
