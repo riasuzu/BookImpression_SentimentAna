@@ -1,0 +1,3 @@
+# BookImpression_SentimentAna
+
+IBM CloudのWatson APIを使い、読書メーターに投稿されている本の感想から本の評判を分析したプログラムです。
