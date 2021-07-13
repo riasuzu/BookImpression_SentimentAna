@@ -1,0 +1,4 @@
+requests==2.25.1
+selenium==3.141.0
+selenium-tools==0.0.2
+ibm-watson==5.2.2
