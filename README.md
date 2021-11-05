@@ -1,6 +1,6 @@
 # BookImpression_SentimentAna   ![バッジ](https://img.shields.io/badge/Python-v3.7.5-blue)
 
-IBM CloudのWatson APIを使い、読書メーターに投稿されている本の感想から本の評判を分析したプログラムです。
+IBM CloudのWatson APIを使い、読書メーター(https://bookmeter.com/)に投稿されている本の感想から本の評判を分析したプログラムです。
 
 # DEMO
 
